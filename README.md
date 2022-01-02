@@ -1,5 +1,5 @@
 # FruitCart
-The GitHubExtractor scrap the issues present in the top 7 repositories of the random topic from Github(https://github.com/topics) and insert them in the respective pdf of the repositories.
+A fully responsive e-commerce website from which you can add different fruits in your cart and then place the order in different parts of the country as well as abroad by provinding your required details.
 
 ## Live Site
 https://ijpkaushiik-fruit-cart.netlify.app
